@@ -8,4 +8,7 @@ To install:
 git clone
 
 chmod +x install.sh
+
 sudo ./install.sh
+
+Happy hacking!
